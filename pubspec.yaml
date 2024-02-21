@@ -2,6 +2,7 @@ name: fl_qr_generation
 description: "A Flutter plugin for QR code generation."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 0.0.1
+homepage: https://github.com/KuntalGain/fl_qr_generation
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
