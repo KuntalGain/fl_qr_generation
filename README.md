@@ -22,6 +22,9 @@ dependencies:
 
 ## Demo
 
+[Demo](https://github.com/KuntalGain/fl_qr_generation/assets/101191826/4b463cbc-9854-4480-a3f3-097096379627)
+
+
 ## Example Code
 
 ```
